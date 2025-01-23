@@ -15,3 +15,4 @@ function getRandomShell() {
 // Display the random word
 document.getElementById('greetings').textContent = getRandomWord();
 document.getElementById('shell').textContent = getRandomShell();
+  
